@@ -1,0 +1,6 @@
+*.suo
+_ReSharper.*
+*.user
+Metrics.typemock.*
+bin
+obj
