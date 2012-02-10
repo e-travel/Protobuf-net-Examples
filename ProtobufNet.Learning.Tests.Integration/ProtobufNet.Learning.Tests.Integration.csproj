@@ -55,6 +55,7 @@
     <Compile Include="Lesson4Enums.cs" />
     <Compile Include="Lesson5Interfaces.cs" />
     <Compile Include="Lesson6Inheritance.cs" />
+    <Compile Include="Lesson8Types.cs" />
     <Compile Include="LessonBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
